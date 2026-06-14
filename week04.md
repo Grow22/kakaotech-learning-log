@@ -26,7 +26,7 @@ app/
 const { productId } = await params;
 ```
 
-### 2. <Data Fetching>
+### 2. \<Data Fetching\>
 
 - 핵심 개념:
   - Server Component에서 바로 `await fetch()`로 처리 -> 브라우저 Network 탭에 안 잡힘
